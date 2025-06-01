@@ -6,7 +6,7 @@ import TituloCard from "@/app/componentes/card/tituloCard";
 export default function ExperienciaAcademica () {
     return (
         <div className="flex flex-col gap-6 px-12 ">
-            <h1 className="py-6 text-3xl text-emerald-500 font-bold self-start">Experiencia Acadêmica</h1>
+            <h1 className="py-6 text-3xl text-emerald-500 font-bold self-start">Expêriencia Acadêmica</h1>
             <Card>
                 <div>
                     <TituloCard>Monitor de cálculo diferencial e integral 1</TituloCard>
