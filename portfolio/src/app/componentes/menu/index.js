@@ -8,7 +8,7 @@ export default function Menu () {
                     <li><Link href="/" className="duration-200 ease-in-out hover:underline  hover:text-emerald-500">Home</Link></li>
                     <li><Link href="/experienciaAcademica" className="duration-200 ease-in-out hover:underline  hover:text-emerald-500">Experiência acadêmica</Link></li>
                     <li><Link href="/experienciaProfissional" className="duration-200 ease-in-out hover:underline  hover:text-emerald-500">Experiência profissional</Link></li>
-                    <li><Link href="#" className="duration-200 ease-in-out hover:underline  hover:text-emerald-500">Projetos</Link></li>
+                    <li><Link href="/projetos" className="duration-200 ease-in-out hover:underline  hover:text-emerald-500">Projetos</Link></li>
                     <li><Link href="#" className="duration-200 ease-in-out hover:underline  hover:text-emerald-500">Sobre</Link></li>
                     <li><Link href="#" className="duration-200 ease-in-out hover:underline  hover:text-emerald-500">Formação</Link></li>
                     <li><Link href="#" className="duration-200 ease-in-out hover:underline  hover:text-emerald-500">Jogo</Link></li>
