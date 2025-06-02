@@ -107,6 +107,9 @@ export default function Projetos() {
                 </CardProjeto>
               </div>
             ))}
+            {repositorios.length <= 0 && (
+              <p className="m-20">Carregando repositórios...</p>
+            )}
           </div>
         </div>
       </div>
